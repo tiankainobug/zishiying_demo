@@ -29,4 +29,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 演示图片：
 
-![demo](./demo.gif)
+![demo](https://github.com/tiankainobug/zishiying_demo/blob/main/demo.gif)
