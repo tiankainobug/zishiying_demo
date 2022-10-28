@@ -29,4 +29,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 演示图片：
 
-![demo](C:\Users\tiank\Pictures\demo.gif)
+![demo](./demo.gif)
